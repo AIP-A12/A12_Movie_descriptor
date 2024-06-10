@@ -8,3 +8,5 @@ This Directory Contains The Code Files Created By Jaivin Jacob
 3. Feature_Extraction_Resnet50.ipynb - Extracting features from videos using pretrained Resnet50 model. Mapping between video ID and features.
 
 4. Feature_Extraction_VIT.ipynb - Extracting features from videos using pretrained VIT model.
+
+5. Custom_Model_Resnet_Features.ipynb - Created an LSTM model for generating text descriptions from features extracted using Resnet50 model.
