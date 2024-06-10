@@ -5,4 +5,6 @@ This Directory Contains The Code Files Created By Jaivin Jacob
 
 2. VIT_GPT2.ipynb - Implementation of VIT model on the sample of original dataset
 
-3. feature-extraction_Resnet50.ipynb - Extracting features from videos using pretrained Resnet50 model. Mapping between video ID and features.
+3. Feature_Extraction_Resnet50.ipynb - Extracting features from videos using pretrained Resnet50 model. Mapping between video ID and features.
+
+4. Feature_Extraction_VIT.ipynb - Extracting features from videos using pretrained VIT model.
