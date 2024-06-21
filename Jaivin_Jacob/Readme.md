@@ -10,3 +10,5 @@ This Directory Contains The Code Files Created By Jaivin Jacob
 4. Feature_Extraction_VIT.ipynb - Extracting features from videos using pretrained VIT model.
 
 5. Custom_Model_Resnet_Features.ipynb - Created an LSTM model for generating text descriptions from features extracted using Resnet50 model.
+
+6. VIT_GPT2_Full_Pipeline.ipynb - Full code which: 1. generating text description using VIT gpt, 2. Converting to audio file, 3. Finding silent part in the video(handles videos with background music), 4. Merge audio description with the video.
