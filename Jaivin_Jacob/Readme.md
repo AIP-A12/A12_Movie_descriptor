@@ -12,3 +12,5 @@ This Directory Contains The Code Files Created By Jaivin Jacob
 5. Custom_Model_Resnet_Features.ipynb - Created an LSTM model for generating text descriptions from features extracted using Resnet50 model.
 
 6. VIT_GPT2_Full_Pipeline.ipynb - Full code which: 1. generating text description using VIT gpt, 2. Converting to audio file, 3. Finding silent part in the video(handles videos with background music), 4. Merge audio description with the video.
+
+7. SpaceTimeGPT_FineTunining.ipynb - Code to process the data for SpaceTime GPT, finetune the model and to generate text description with the pretrained model.
